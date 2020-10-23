@@ -735,12 +735,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   waitTime: 0.7
-  size: 10
+  size: 20
   spawnPos: {fileID: 1731198298}
   cell: {fileID: 7284592020319558542, guid: 2eafbed226b92274184f902f098d30b7, type: 3}
   xInit: -8
   yInit: 4
-  offset: 0.9
+  offset: 0.4
   automatic: 1
   next: 1
 --- !u!4 &901007781
